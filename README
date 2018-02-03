@@ -22,3 +22,5 @@ $('#adipoli > img').adipoli({
   'startEffect' : 'grayscale',
   'hoverEffect' : 'normal'	
 });
+
+See more: https://www.youtube.com/watch?v=9XddcsnlK3A
