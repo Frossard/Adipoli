@@ -1,1 +1,24 @@
 Adipoli jQuery Image Hover Plugin
+
+Adipoli is An amazing free to use jQuery image hover plugin with more than 20 stylish and easy-to-use transition effects.
+Available Options :-
+
+startEffect : Default style of image
+hoverEffect : Image style on mouse over
+imageOpacity : opacity of image considered when start effect is transparent or overlay
+animSpeed : Animation speed for the effect
+fillColor : Overlay color
+textColor : Text Color
+overlayText : Default HTML to be displayed on overlay
+slices : Number of slices for slice animations
+boxCols : Number of boxes in a row for box animations
+boxRows : Number of rows for box animations
+popOutMargin : Margin of Image popout
+popOutShadow : Shadow length of popout image. Shadow works for those browsers which support text-shadow css.
+
+Usage:
+
+$('#adipoli > img').adipoli({
+  'startEffect' : 'grayscale',
+  'hoverEffect' : 'normal'	
+});
